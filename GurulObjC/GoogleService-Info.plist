@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>79747155172-77j1jjiattaa3vrq765gqmm0p0rhell9.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.79747155172-77j1jjiattaa3vrq765gqmm0p0rhell9</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAOOBXyl28DtyR5vNAees2IrJLKrUFLYvw</string>
+	<key>GCM_SENDER_ID</key>
+	<string>79747155172</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>GurulObjC.GurulObjC</string>
+	<key>PROJECT_ID</key>
+	<string>gurulios</string>
+	<key>STORAGE_BUCKET</key>
+	<string>gurulios.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:79747155172:ios:8be56a892e092d31</string>
+	<key>DATABASE_URL</key>
+	<string>https://gurulios.firebaseio.com</string>
+</dict>
+</plist>

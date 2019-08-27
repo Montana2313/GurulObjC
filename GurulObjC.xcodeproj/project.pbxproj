@@ -3,19 +3,51 @@
 	archiveVersion = 1;
 	classes = {
 	};
-	objectVersion = 50;
+	objectVersion = 51;
 	objects = {
 
 /* Begin PBXBuildFile section */
+		041CE3F223109F5B002C8745 /* TamamlaVC.m in Sources */ = {isa = PBXBuildFile; fileRef = 041CE3F123109F5B002C8745 /* TamamlaVC.m */; };
+		0423842023102EEE003C7DBF /* ProfilVC.m in Sources */ = {isa = PBXBuildFile; fileRef = 0423841F23102EEE003C7DBF /* ProfilVC.m */; };
+		043CED8222FB5689001ECCDC /* RestoranVC.m in Sources */ = {isa = PBXBuildFile; fileRef = 043CED8122FB5689001ECCDC /* RestoranVC.m */; };
+		043CED8522FB6C5B001ECCDC /* UserRestorantsVC.m in Sources */ = {isa = PBXBuildFile; fileRef = 043CED8422FB6C5B001ECCDC /* UserRestorantsVC.m */; };
+		043CED8822FB6FDE001ECCDC /* RestorantDetailVC.m in Sources */ = {isa = PBXBuildFile; fileRef = 043CED8722FB6FDE001ECCDC /* RestorantDetailVC.m */; };
+		0469FDDC22FB3F910065E5C4 /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 0469FDDB22FB3F910065E5C4 /* GoogleService-Info.plist */; };
+		049C87D72313EB140059FBB3 /* GeneralTypes.m in Sources */ = {isa = PBXBuildFile; fileRef = 049C87D62313EB140059FBB3 /* GeneralTypes.m */; };
+		04A6FF062308508F002004DF /* Cell.m in Sources */ = {isa = PBXBuildFile; fileRef = 04A6FF042308508F002004DF /* Cell.m */; };
+		04A6FF072308508F002004DF /* Cell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 04A6FF052308508F002004DF /* Cell.xib */; };
 		04B6000522FB0F9A00D96EF7 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 04B6000422FB0F9A00D96EF7 /* AppDelegate.m */; };
 		04B6000822FB0F9A00D96EF7 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 04B6000722FB0F9A00D96EF7 /* ViewController.m */; };
 		04B6000B22FB0F9A00D96EF7 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 04B6000922FB0F9A00D96EF7 /* Main.storyboard */; };
 		04B6000D22FB0F9C00D96EF7 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 04B6000C22FB0F9C00D96EF7 /* Assets.xcassets */; };
 		04B6001022FB0F9C00D96EF7 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 04B6000E22FB0F9C00D96EF7 /* LaunchScreen.storyboard */; };
 		04B6001322FB0F9C00D96EF7 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 04B6001222FB0F9C00D96EF7 /* main.m */; };
+		04B6001C22FB1A5900D96EF7 /* RestSign.m in Sources */ = {isa = PBXBuildFile; fileRef = 04B6001B22FB1A5900D96EF7 /* RestSign.m */; };
+		04B6001F22FB1B2600D96EF7 /* ShowMapVC.m in Sources */ = {isa = PBXBuildFile; fileRef = 04B6001E22FB1B2600D96EF7 /* ShowMapVC.m */; };
+		04B6002222FB1B6500D96EF7 /* Restlist.m in Sources */ = {isa = PBXBuildFile; fileRef = 04B6002122FB1B6500D96EF7 /* Restlist.m */; };
+		04B6002522FB1BC600D96EF7 /* AfterShake.m in Sources */ = {isa = PBXBuildFile; fileRef = 04B6002422FB1BC600D96EF7 /* AfterShake.m */; };
+		04D73378230AE1B900B33C96 /* Reachability.m in Sources */ = {isa = PBXBuildFile; fileRef = 04D73377230AE1B900B33C96 /* Reachability.m */; };
+		04EB0240230D766400096414 /* SuperViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 04EB023F230D766400096414 /* SuperViewController.m */; };
+		04EB0243230D888D00096414 /* CellWCode.m in Sources */ = {isa = PBXBuildFile; fileRef = 04EB0242230D888D00096414 /* CellWCode.m */; };
+		923C8D9432AD47DEB09E05AD /* Pods_GurulObjC.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CF69A3B478FCAC0FC7D28C83 /* Pods_GurulObjC.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		041CE3F023109F5B002C8745 /* TamamlaVC.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = TamamlaVC.h; sourceTree = "<group>"; };
+		041CE3F123109F5B002C8745 /* TamamlaVC.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = TamamlaVC.m; sourceTree = "<group>"; };
+		0423841E23102EEE003C7DBF /* ProfilVC.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ProfilVC.h; sourceTree = "<group>"; };
+		0423841F23102EEE003C7DBF /* ProfilVC.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ProfilVC.m; sourceTree = "<group>"; };
+		043CED8022FB5689001ECCDC /* RestoranVC.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = RestoranVC.h; sourceTree = "<group>"; };
+		043CED8122FB5689001ECCDC /* RestoranVC.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = RestoranVC.m; sourceTree = "<group>"; };
+		043CED8322FB6C5B001ECCDC /* UserRestorantsVC.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = UserRestorantsVC.h; sourceTree = "<group>"; };
+		043CED8422FB6C5B001ECCDC /* UserRestorantsVC.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = UserRestorantsVC.m; sourceTree = "<group>"; };
+		043CED8622FB6FDE001ECCDC /* RestorantDetailVC.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = RestorantDetailVC.h; sourceTree = "<group>"; };
+		043CED8722FB6FDE001ECCDC /* RestorantDetailVC.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = RestorantDetailVC.m; sourceTree = "<group>"; };
+		0469FDDB22FB3F910065E5C4 /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
+		049C87D62313EB140059FBB3 /* GeneralTypes.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = GeneralTypes.m; sourceTree = "<group>"; };
+		04A6FF032308508F002004DF /* Cell.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Cell.h; sourceTree = "<group>"; };
+		04A6FF042308508F002004DF /* Cell.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Cell.m; sourceTree = "<group>"; };
+		04A6FF052308508F002004DF /* Cell.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = Cell.xib; sourceTree = "<group>"; };
 		04B6000022FB0F9A00D96EF7 /* GurulObjC.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = GurulObjC.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		04B6000322FB0F9A00D96EF7 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		04B6000422FB0F9A00D96EF7 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
@@ -26,6 +58,23 @@
 		04B6000F22FB0F9C00D96EF7 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		04B6001122FB0F9C00D96EF7 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		04B6001222FB0F9C00D96EF7 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		04B6001A22FB1A5900D96EF7 /* RestSign.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = RestSign.h; sourceTree = "<group>"; };
+		04B6001B22FB1A5900D96EF7 /* RestSign.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = RestSign.m; sourceTree = "<group>"; };
+		04B6001D22FB1B2600D96EF7 /* ShowMapVC.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ShowMapVC.h; sourceTree = "<group>"; };
+		04B6001E22FB1B2600D96EF7 /* ShowMapVC.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ShowMapVC.m; sourceTree = "<group>"; };
+		04B6002022FB1B6500D96EF7 /* Restlist.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Restlist.h; sourceTree = "<group>"; };
+		04B6002122FB1B6500D96EF7 /* Restlist.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Restlist.m; sourceTree = "<group>"; };
+		04B6002322FB1BC600D96EF7 /* AfterShake.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AfterShake.h; sourceTree = "<group>"; };
+		04B6002422FB1BC600D96EF7 /* AfterShake.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AfterShake.m; sourceTree = "<group>"; };
+		04D73376230AE1B900B33C96 /* Reachability.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Reachability.h; sourceTree = "<group>"; };
+		04D73377230AE1B900B33C96 /* Reachability.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Reachability.m; sourceTree = "<group>"; };
+		04EB023E230D766400096414 /* SuperViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SuperViewController.h; sourceTree = "<group>"; };
+		04EB023F230D766400096414 /* SuperViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SuperViewController.m; sourceTree = "<group>"; };
+		04EB0241230D888D00096414 /* CellWCode.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = CellWCode.h; sourceTree = "<group>"; };
+		04EB0242230D888D00096414 /* CellWCode.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = CellWCode.m; sourceTree = "<group>"; };
+		66BA4AD3584C815446266F64 /* Pods-GurulObjC.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-GurulObjC.debug.xcconfig"; path = "Target Support Files/Pods-GurulObjC/Pods-GurulObjC.debug.xcconfig"; sourceTree = "<group>"; };
+		C3D476D73EC595D2662C06C6 /* Pods-GurulObjC.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-GurulObjC.release.xcconfig"; path = "Target Support Files/Pods-GurulObjC/Pods-GurulObjC.release.xcconfig"; sourceTree = "<group>"; };
+		CF69A3B478FCAC0FC7D28C83 /* Pods_GurulObjC.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_GurulObjC.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -33,12 +82,25 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				923C8D9432AD47DEB09E05AD /* Pods_GurulObjC.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		04A6FF022308506D002004DF /* Cell */ = {
+			isa = PBXGroup;
+			children = (
+				04A6FF032308508F002004DF /* Cell.h */,
+				04A6FF042308508F002004DF /* Cell.m */,
+				04A6FF052308508F002004DF /* Cell.xib */,
+				04EB0241230D888D00096414 /* CellWCode.h */,
+				04EB0242230D888D00096414 /* CellWCode.m */,
+			);
+			path = Cell;
+			sourceTree = "<group>";
+		};
 		04B6000122FB0F9A00D96EF7 /* Products */ = {
 			isa = PBXGroup;
 			children = (
@@ -50,12 +112,13 @@
 		04B6000222FB0F9A00D96EF7 /* GurulObjC */ = {
 			isa = PBXGroup;
 			children = (
+				04A6FF022308506D002004DF /* Cell */,
+				04B6001922FB1A2000D96EF7 /* Controller */,
 				04B6000322FB0F9A00D96EF7 /* AppDelegate.h */,
 				04B6000422FB0F9A00D96EF7 /* AppDelegate.m */,
-				04B6000622FB0F9A00D96EF7 /* ViewController.h */,
-				04B6000722FB0F9A00D96EF7 /* ViewController.m */,
 				04B6000922FB0F9A00D96EF7 /* Main.storyboard */,
 				04B6000C22FB0F9C00D96EF7 /* Assets.xcassets */,
+				0469FDDB22FB3F910065E5C4 /* GoogleService-Info.plist */,
 				04B6000E22FB0F9C00D96EF7 /* LaunchScreen.storyboard */,
 				04B6001122FB0F9C00D96EF7 /* Info.plist */,
 				04B6001222FB0F9C00D96EF7 /* main.m */,
@@ -63,12 +126,63 @@
 			path = GurulObjC;
 			sourceTree = "<group>";
 		};
+		04B6001922FB1A2000D96EF7 /* Controller */ = {
+			isa = PBXGroup;
+			children = (
+				04D73376230AE1B900B33C96 /* Reachability.h */,
+				04D73377230AE1B900B33C96 /* Reachability.m */,
+				04B6000622FB0F9A00D96EF7 /* ViewController.h */,
+				04B6000722FB0F9A00D96EF7 /* ViewController.m */,
+				04B6001A22FB1A5900D96EF7 /* RestSign.h */,
+				04B6001B22FB1A5900D96EF7 /* RestSign.m */,
+				04EB023E230D766400096414 /* SuperViewController.h */,
+				04EB023F230D766400096414 /* SuperViewController.m */,
+				04B6001D22FB1B2600D96EF7 /* ShowMapVC.h */,
+				04B6001E22FB1B2600D96EF7 /* ShowMapVC.m */,
+				04B6002022FB1B6500D96EF7 /* Restlist.h */,
+				04B6002122FB1B6500D96EF7 /* Restlist.m */,
+				04B6002322FB1BC600D96EF7 /* AfterShake.h */,
+				04B6002422FB1BC600D96EF7 /* AfterShake.m */,
+				043CED8022FB5689001ECCDC /* RestoranVC.h */,
+				043CED8122FB5689001ECCDC /* RestoranVC.m */,
+				043CED8322FB6C5B001ECCDC /* UserRestorantsVC.h */,
+				043CED8422FB6C5B001ECCDC /* UserRestorantsVC.m */,
+				0423841E23102EEE003C7DBF /* ProfilVC.h */,
+				0423841F23102EEE003C7DBF /* ProfilVC.m */,
+				043CED8622FB6FDE001ECCDC /* RestorantDetailVC.h */,
+				043CED8722FB6FDE001ECCDC /* RestorantDetailVC.m */,
+				041CE3F023109F5B002C8745 /* TamamlaVC.h */,
+				041CE3F123109F5B002C8745 /* TamamlaVC.m */,
+				049C87D62313EB140059FBB3 /* GeneralTypes.m */,
+			);
+			path = Controller;
+			sourceTree = "<group>";
+		};
 		04B6FFF722FB0F9A00D96EF7 = {
 			isa = PBXGroup;
 			children = (
 				04B6000222FB0F9A00D96EF7 /* GurulObjC */,
 				04B6000122FB0F9A00D96EF7 /* Products */,
+				8C4EAC09F7BCC3CAD98DFE77 /* Pods */,
+				E78A53224E5EAECC7FB6787C /* Frameworks */,
 			);
+			sourceTree = "<group>";
+		};
+		8C4EAC09F7BCC3CAD98DFE77 /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				66BA4AD3584C815446266F64 /* Pods-GurulObjC.debug.xcconfig */,
+				C3D476D73EC595D2662C06C6 /* Pods-GurulObjC.release.xcconfig */,
+			);
+			path = Pods;
+			sourceTree = "<group>";
+		};
+		E78A53224E5EAECC7FB6787C /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				CF69A3B478FCAC0FC7D28C83 /* Pods_GurulObjC.framework */,
+			);
+			name = Frameworks;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -78,9 +192,11 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 04B6001622FB0F9C00D96EF7 /* Build configuration list for PBXNativeTarget "GurulObjC" */;
 			buildPhases = (
+				5A0632CF38C832B494C4E120 /* [CP] Check Pods Manifest.lock */,
 				04B6FFFC22FB0F9A00D96EF7 /* Sources */,
 				04B6FFFD22FB0F9A00D96EF7 /* Frameworks */,
 				04B6FFFE22FB0F9A00D96EF7 /* Resources */,
+				2F98BEF42B78B5A5B09FC8C4 /* [CP] Embed Pods Frameworks */,
 			);
 			buildRules = (
 			);
@@ -129,6 +245,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				04B6001022FB0F9C00D96EF7 /* LaunchScreen.storyboard in Resources */,
+				04A6FF072308508F002004DF /* Cell.xib in Resources */,
+				0469FDDC22FB3F910065E5C4 /* GoogleService-Info.plist in Resources */,
 				04B6000D22FB0F9C00D96EF7 /* Assets.xcassets in Resources */,
 				04B6000B22FB0F9A00D96EF7 /* Main.storyboard in Resources */,
 			);
@@ -136,14 +254,70 @@
 		};
 /* End PBXResourcesBuildPhase section */
 
+/* Begin PBXShellScriptBuildPhase section */
+		2F98BEF42B78B5A5B09FC8C4 /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-GurulObjC/Pods-GurulObjC-frameworks-${CONFIGURATION}-input-files.xcfilelist",
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-GurulObjC/Pods-GurulObjC-frameworks-${CONFIGURATION}-output-files.xcfilelist",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-GurulObjC/Pods-GurulObjC-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		5A0632CF38C832B494C4E120 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-GurulObjC-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
+
 /* Begin PBXSourcesBuildPhase section */
 		04B6FFFC22FB0F9A00D96EF7 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				0423842023102EEE003C7DBF /* ProfilVC.m in Sources */,
+				04EB0240230D766400096414 /* SuperViewController.m in Sources */,
+				04A6FF062308508F002004DF /* Cell.m in Sources */,
+				04B6001C22FB1A5900D96EF7 /* RestSign.m in Sources */,
 				04B6000822FB0F9A00D96EF7 /* ViewController.m in Sources */,
+				043CED8822FB6FDE001ECCDC /* RestorantDetailVC.m in Sources */,
 				04B6001322FB0F9C00D96EF7 /* main.m in Sources */,
+				04EB0243230D888D00096414 /* CellWCode.m in Sources */,
+				043CED8522FB6C5B001ECCDC /* UserRestorantsVC.m in Sources */,
+				049C87D72313EB140059FBB3 /* GeneralTypes.m in Sources */,
 				04B6000522FB0F9A00D96EF7 /* AppDelegate.m in Sources */,
+				04B6001F22FB1B2600D96EF7 /* ShowMapVC.m in Sources */,
+				04B6002222FB1B6500D96EF7 /* Restlist.m in Sources */,
+				041CE3F223109F5B002C8745 /* TamamlaVC.m in Sources */,
+				043CED8222FB5689001ECCDC /* RestoranVC.m in Sources */,
+				04D73378230AE1B900B33C96 /* Reachability.m in Sources */,
+				04B6002522FB1BC600D96EF7 /* AfterShake.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -283,35 +457,39 @@
 		};
 		04B6001722FB0F9C00D96EF7 /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 66BA4AD3584C815446266F64 /* Pods-GurulObjC.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = T2FENB68MY;
 				INFOPLIST_FILE = GurulObjC/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = GurulObjC.GurulObjC;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Debug;
 		};
 		04B6001822FB0F9C00D96EF7 /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = C3D476D73EC595D2662C06C6 /* Pods-GurulObjC.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = T2FENB68MY;
 				INFOPLIST_FILE = GurulObjC/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = GurulObjC.GurulObjC;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Release;
 		};

@@ -12,6 +12,8 @@
 
 @property (strong, nonatomic) UIWindow *window;
 
-
+-(void)segueAfterSave;
+- (BOOL)connected;
+-(void)checkUser;
 @end
 
